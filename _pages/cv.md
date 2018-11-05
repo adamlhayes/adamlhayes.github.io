@@ -22,7 +22,7 @@ redirect_from:
 # Academic Experience
 RESEARCH
 * 2016 - present: Research Assistant, Professor Ann Bostrom
-  * Quantitative data analysis, including: factor analysis, multiple imputation, and semi-parametric mediation analysis.
+  * Quantitative data analysis, including: factor analysis, multiple imputation, semi-parametric mediation analysis and choice analysis.
   * Climate change perception
 * 2017: Research Assistant, Evans School Policy Analysis and Research
   * Automated Text Analysis
@@ -32,8 +32,8 @@ RESEARCH
 TEACHING
 * Spring 2017: Teaching Assistant, Quantitative Analysis II, PUBPOL 528 (Instructor: Joshua Merfeld)
 * Winter 2017: Teaching Assistant, Quantitative Analysis I, PUBPOL 527 (Instructor: Katya Roshchina)
-* 2015-2016: Tutor, Economics for Policy and Management (PUBPOL 516-517)Ì∂ùÙÄ∂äPÙÄ∂óÙÄ∂î 516-51
-  
+* 2015-2016: Tutor, Economics for Policy and Management (PUBPOL 516-517)
+
 # Skills
 * Statistical Software
   * R, Stan, STATA, EViews, SPSS
