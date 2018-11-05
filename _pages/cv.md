@@ -11,49 +11,57 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Public Policy and Management, University of Washington Seattle, 2019 (expected)
+* M.S. in Public Policy, University of Washington Seattle, 2016
+* M.S. in Energy Economics, Colorado School of Mines, 2014
+* B.A. in Economics, Political Science, and International Affairs, University of Colorado Boulder, 2007
 
-Work experience
+Research and Teaching Interests
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fields: Environmental and Natural Resource Economics, Environmental Governance
+* Methods: Networks, Choice Analysis, Applied Econometrics, Text Analysis
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Academic Experience
+======
+RESEARCH
+* 2016 - present: Research Assistant, Professor Ann Bostrom
+  * Quantitative data analysis, including: factor analysis, multiple imputation, and semi-parametric mediation analysis.
+  * Climate change perception
+* 2017: Research Assistant, Evans School Policy Analysis and Research
+  * Automated Text Analysis
+  * Web scraping
+  * Digital Financial Inclusion and Global Health R&D Investments
+
+TEACHING
+* Spring 2017: Teaching Assistant, Quantitative Analysis II, PUBPOL 528 (Instructor: Joshua Merfeld)
+* Winter 2017: Teaching Assistant, Quantitative Analysis I, PUBPOL 527 (Instructor: Katya Roshchina)
+* 2015-2016: Tutor, Economics for Policy and Management (PUBPOL 516-517)Ì∂ùÙÄ∂äPÙÄ∂óÙÄ∂î 516-51
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Statistical Software
+  * R, Stan, STATA, EViews, SPSS
+* Additional Programming
+  * Python, LATEX
+* Optimization
+  * AMPL/CPLEX, GAMS
 
-Publications
+#Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+#  <ul>{% for post in site.publications %}
+#    {% include archive-single-cv.html %}
+#  {% endfor %}</ul>
   
-Talks
+#Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+#  <ul>{% for post in site.talks %}
+#    {% include archive-single-talk-cv.html %}
+#  {% endfor %}</ul>
   
-Teaching
+#Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+#  <ul>{% for post in site.teaching %}
+#    {% include archive-single-cv.html %}
+#  {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
