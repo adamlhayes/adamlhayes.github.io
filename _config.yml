@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://adamlhayes.github.io # the base hostname & protocol for your site 
-baseurl                  : "/about" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "adamlhayes/adamlhayes.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Adam L. Hayes"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Ph.D. Candidate, University of Washington"
   location         : "Seattle, WA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=X7RSdYUAAAAJ&hl=en&oi=sra"
