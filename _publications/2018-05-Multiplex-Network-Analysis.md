@@ -3,7 +3,7 @@ title: "Multiplex Network Analysis for Complex Governance Systems Using Surveys 
 collection: publications
 permalink: /publication/2018-05-Multiplex Network Analysis
 excerpt: 'We compare a survey-based measure of an environmental governance network to two web-based measures of the network: Twitter and hyperlink network data. We find broad similarities across network measures, but several instances of divergence between the survey- and online-networks.'
-date: 2018-05
+date: 2018-05-01
 venue: 'Policy Studies Journal'
 paperurl: 'https://doi.org/10.1111/psj.12210'
 citation: '<b>Adam L. Hayes</b> & Tyler A. Scott. (2018). &quot;Multiplex Network Analysis for Complex Governance Systems Using Surveys and Online Behavior.&quot; <i>Policy Studies Journal</i>. 46(2).'
