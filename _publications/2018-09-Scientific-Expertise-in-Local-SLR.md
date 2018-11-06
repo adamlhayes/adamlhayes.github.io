@@ -2,7 +2,7 @@
 title: "The role of scientific expertise in local adaptation to projected sea level rise"
 collection: publications
 permalink: /publication/2018-09-Scientific-Expertise-in-Local-SLR
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'We survey city and town government officials and department heads to determine the prevalence of sea level rise (SLR) planning at the local level, the extent to which scientists are involved in the planning process, and perceptions about effective expert involvement.  We find that planning is widespread (47 of 71 surveyed governments) and expert knowledge is generally utilized (38 of 47 local governments). Our results indicate expert input is most effective when experts make scientific information more accessible. Expertise coming from academic or government organizations beyond the local government are underutilized relative to reported needs, suggesting potential gains from additional knowledge-sharing.'
 date: 2018-09-01
 venue: 'Environmental Science &amp; Policy'
 paperurl: 'https://doi.org/10.1016/j.envsci.2018.05.012'
