@@ -2,7 +2,7 @@
 title: "Multiplex Network Analysis for Complex Governance Systems Using Surveys and Online Behavior."
 collection: publications
 permalink: /publication/2018-05-Multiplex Network Analysis
-excerpt: 'We compare a survey-based measure of an environmental governance network to two web-based measures of the network: Twitter and hyperlink network data. We find broad similarities across network measures, but several instances of divergence between the survey- and online-networks.'
+excerpt: 'Research in complex governance systems has long been constrained by the limitations of surveys as a source of relational data. We investigate the extent to which passively-collected online data can replicate the inferences based on survey network data. We compare a survey-based measure of an environmental governance network to two web-based measures of the network: Twitter and hyperlink network data using correlations calculated using quadratic assignment procedure and exponential random graph models. We find a statistically significant but fairly weak correlation among the network measuers. There are broad similarities in tie-formation patterns across network measures, but several important instances of divergence as well.'
 date: 2018-05-01
 venue: 'Policy Studies Journal'
 paperurl: 'https://doi.org/10.1111/psj.12210'
