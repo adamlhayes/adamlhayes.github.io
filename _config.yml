@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Adam L. Hayes"
+title                    : "Ph.D. Candidate"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Adam L. Hayes"
 description              : &description "personal description"
 url                      : https://adamlhayes.github.io # the base hostname & protocol for your site 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
