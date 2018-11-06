@@ -15,8 +15,5 @@ I'm currently in my final year of my PhD studies - which means writing the disse
 Along with my dissertation, I also research networks of interactivity among stakeholders in the environmental policy process and in complex environmental
 governance situations; including, network measurement challenges, analytical techniques, and the relationship between networked stakeholders and policy outcomes. This involves scraping web data for network information between policy actors, and modeling tie formation activity in these networks. 
 
-When I'm not working on my various research projects, you can usually find me exploring Seattle or hiking with my wife Alex in the surrounding mountains or coasts.
-
-
-
+When I'm not working on my various research projects, you can usually find me exploring Seattle or hiking with my wife Alex in the surrounding mountains or coasts. 
 
