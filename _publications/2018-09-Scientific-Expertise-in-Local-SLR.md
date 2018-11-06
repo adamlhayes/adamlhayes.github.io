@@ -9,7 +9,7 @@ paperurl: 'https://doi.org/10.1016/j.envsci.2018.05.012'
 citation: 'Hayes, A. L., Heery, E. C., Maroon, E., McLaskey, A. K., & Stawitz, C. C. (2018). &quot;The role of scientific expertise in local adaptation to projected sea level rise.&quot; <i>Environmental Science &amp; Policy, 87</i>, 55-63.'
 ---
 
-![alt text][graphical-abstract1]
+![alt text][graphical-abstract1.jpg]
 
 # Highlights
 * Sea level rise adaptation planning is widespread (47/71) in US coastal cities.
