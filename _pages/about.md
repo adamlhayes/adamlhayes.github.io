@@ -25,11 +25,11 @@ redirect_from:
 * May, 2020. Honorable Mention for Best Dissertation, Public Management Research Association (PMRA).
 * December, 2019. Ph.D. awarded! 
 * September, 2019. Teaching Assistant in the Fall quarter for *Economics for Policy Analysis* taught by Caroline Weber. 
-* August, 2019. Article accepted at *Risk Analysis*, [''Efficacy Foundations for Risk Communication: How People Think About Reducing the Risks of Climate Change''](https://onlinelibrary.wiley.com/doi/abs/10.1111/risa.13334) (with Kate Crosman and Ann Bostrom)
+* August, 2019. Article accepted at *Risk Analysis*, [''Efficacy Foundations for Risk Communication: How People Think About Reducing the Risks of Climate Change''](https://doi.org/10.1111/risa.13334) (with Kate Crosman and Ann Bostrom)
 * February, 2019. Guest presentation for the Evans School's *Executive Economics* course on fisheries quota trading.
 * May, 2019. Presentation at the Sea Grant/National Marine Fisheries Service fellowship annual conference in Honolulu, Hawaii on Alaska price dispersion and social network patterns in Alaska fisheries quota trading.
 * January, 2019. Presentation on Earthquake Early Warning and multiple imputation methods to the Evans School Board of Governors. 
-* October, 2018. Article accepted at *Risk Analysis*, ''Efficacy, Action, and Support for Reducing Climate Change Risks.'' (with Ann Bostrom and Kate Crosman)
+* October, 2018. Article accepted at *Risk Analysis*, [''Efficacy, Action, and Support for Reducing Climate Change Risks.''](https://doi.org/10.1111/risa.13210) (with Ann Bostrom and Kate Crosman)
 * October, 2018. Presentation at NASPAA conference in Atlanta, Georgia on the potential for using online measurement tools to study stakeholder networks in environmental governance (co-authored by Tyler Scott)
 * August, 2018. Pi Alpha Alpha award for best doctoral student manuscript. 
 * August, 2018. NASPAA emerging scholar award.
