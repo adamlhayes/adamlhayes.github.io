@@ -7,7 +7,7 @@ author_profile: true
 
 # Publications ( [GoogleScholar page](https://scholar.google.com/citations?user=X7RSdYUAAAAJ&hl=en) )
 
-<span font-size:4em>[Efficacy Foundations for Risk Communication: How People Think About Reducing the Risks of Climate Change](https://doi.org/10.1111/risa.13334)</span> \
+<font size="2">[Efficacy Foundations for Risk Communication: How People Think About Reducing the Risks of Climate Change](https://doi.org/10.1111/risa.13334)</font> \
 Katherine M. Crosman, Ann Bostrom, and **Adam L. Hayes** (2019).*Risk Analysis, 39*(10): 2329-2347.
 
 [Efficacy, Action, and Support for Reducing Climate Change Risks](https://doi.org/10.1111/risa.13210)\
