@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 * Postdoctoral Scholar at the University of Washington School of Marine and Environmental Affairs where I work with Professor Sunny Jardine. I received my Ph.D. in December 2019 from the Evans School of Public Policy and Governance at the University of Washington. 
-* Interested in environmental and natural resource economics and policy. Primarily working on fisheries economics, but also studies climate change perception and policy support and cooperative networks of stakeholders to manage environmental systems. 
+* Interested in environmental and natural resource economics and policy. Primarily working on fisheries economics, but I also study climate change perception and policy support and cooperative networks of stakeholders to manage environmental systems. 
 * Grew up in Colorado and received a B.A. in economics, political science, and international affairs from the University of Colorado in Boulder; and a M.S. in mineral and energy economics from the Colorado School of Mines. 
 
 # Personal 
