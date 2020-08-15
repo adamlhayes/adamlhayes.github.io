@@ -25,7 +25,7 @@ redirect_from:
 * May, 2020. Honorable Mention for Best Dissertation, Public Management Research Association (PMRA).
 * December, 2019. Ph.D. awarded! 
 * September, 2019. Teaching Assistant in the Fall quarter for *Economics for Policy Analysis* taught by Caroline Weber. 
-* August, 2019. Article accepted at *Risk Analysis*, ''Efficacy Foundations for Risk Communication: How People Think About Reducing the Risks of Climate Change'' (with Kate Crosman and Ann Bostrom)
+* August, 2019. Article accepted at *Risk Analysis*, [''Efficacy Foundations for Risk Communication: How People Think About Reducing the Risks of Climate Change''](https://onlinelibrary.wiley.com/doi/abs/10.1111/risa.13334) (with Kate Crosman and Ann Bostrom)
 * February, 2019. Guest presentation for the Evans School's *Executive Economics* course on fisheries quota trading.
 * May, 2019. Presentation at the Sea Grant/National Marine Fisheries Service fellowship annual conference in Honolulu, Hawaii on Alaska price dispersion and social network patterns in Alaska fisheries quota trading.
 * January, 2019. Presentation on Earthquake Early Warning and multiple imputation methods to the Evans School Board of Governors. 
