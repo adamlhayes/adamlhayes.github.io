@@ -1,8 +1,6 @@
 ---
 layout: archive
-title: ""
 permalink: /publications/
-author_profile: true
 ---
 
 # Publications ( [GoogleScholar page](https://scholar.google.com/citations?user=X7RSdYUAAAAJ&hl=en) )
