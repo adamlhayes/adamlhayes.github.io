@@ -3,7 +3,7 @@ permalink: /publications/
 title: "Publications ([GoogleScholar profile](https://scholar.google.com/citations?user=X7RSdYUAAAAJ&hl=en))"
 author_profile: true
 ---
-<b>[Estimating willingness-to-pay for fishing quota using a random bidding model](https://github.com/adamlhayes/adamlhayes.github.io/blob/master/files/hayes2020randomBidding_working.pdf) </b> <br>
+<b>[Estimating willingness-to-pay for fishing quota using a random bidding model](https://adamlhayes.github.io/files/hayes2020randomBidding_working.pdf) </b> <br>
 **Adam L. Hayes**, *IIFET 2020 Conference, Working Paper*.
 
 <b>[Efficacy Foundations for Risk Communication: How People Think About Reducing the Risks of Climate Change](https://doi.org/10.1111/risa.13334) </b> <br>
