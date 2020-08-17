@@ -1,7 +1,7 @@
 ---
 title: 'Reading list entry - August 17th, 2020'
 date: 2020-08-17
-permalink: /posts/2020-08-reading-list-Desvouges
+permalink: /posts/2020/08/reading-list-Desvouges
 tags:
   - academic reading
   - contingent valuation
