@@ -1,7 +1,7 @@
 ---
 title: 'Ongoing research: Crab diversification'
 date: 2020-08-17
-permalink: /posts/2012/08/research-Crab-Diversification/
+permalink: /posts/2020/08/research-Crab-Diversification/
 tags:
   - Ongoing Research
   - Dungeness Crab
@@ -9,8 +9,9 @@ tags:
   - Harmful Algal Blooms
 ---
 
-There's an idea that shows up all the time that across difference strains of finance and economics more broadly that portfolio diversification insulates an individual or firm from shocks. The idea is that the more diversified you are, the more your returns look similar to overall total market returns. While you don't get super-high returns you also safe-guard against super-low returns. 
+## Summary
+Does portfolio diversification insulate fisheries harvesters from risk like it protects investors in financial assets? We use the 2016 harmful algal bloom that delayed the start of the California Dungeness Crab season as a case study to examine how well diversification strategies insulated 
 
-There's been some efforts over the past several years to apply this same idea to commercial fisheries. It's hypothesized that diversification - fishing for more than just a single species - helps harvesters insulate themselves against the ups-and-downs of a fishery in much the same way that portfolio diversification helps investors insulate themselves from idiosyncratic volatility of a single investment.
+## Background
+The risk-mitigating properties of portfolio diversification is an idea that has spilled over from financial investment studies into many threads of economics. The idea is that the more diversified you are, the more your returns look similar to overall total market returns. While you don't get super-high returns you also safe-guard against downside risk which could result in super-low returns. There's been some efforts over the past several years to apply this same idea to commercial fisheries. It's hypothesized that fishing portfolio diversification - fishing for more than just a single species - helps harvesters insulate themselves against the ups-and-downs of a fishery in much the same way that portfolio diversification helps investors insulate themselves from idiosyncratic volatility of a single investment. 
 
-Very often a fishery is treated as a standalone thing, but a lot of commercial harvesters don't just harvest one species - they participate in multiple different fisheries. Dungeness Crab is a great example of this in California. Most of the vessels that harvest Dungeness Crab also harvest something else in the same year. Chinook Salmon (also called King Salmon) is the most common. 
