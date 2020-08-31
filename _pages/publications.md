@@ -9,7 +9,7 @@ author_profile: true
 <b>[Efficacy Foundations for Risk Communication: How People Think About Reducing the Risks of Climate Change](https://doi.org/10.1111/risa.13334) </b> ([Working paper version](https://adamlhayes.github.io/files/efficacy-paper-1-Crosman2019.pdf)) <br>
 Katherine M. Crosman, Ann Bostrom, and **Adam L. Hayes** (2019). *Risk Analysis, 39*(10): 2329-2347.
 
-<b>[Efficacy, Action, and Support for Reducing Climate Change Risks](https://doi.org/10.1111/risa.13210)</b> ([Working paper version](https://adamlhayes.github.io/files/efficacy-paper-2-Bostrom2018.pdf1)) <br>
+<b>[Efficacy, Action, and Support for Reducing Climate Change Risks](https://doi.org/10.1111/risa.13210)</b> ([Working paper version](https://adamlhayes.github.io/files/efficacy-paper-2-Bostrom2018.pdf)) <br>
 Ann Bostrom, **Adam L. Hayes**, and Katherine M. Crosman (2019). *Risk Analysis, 39*(4): 805-828.
 
 <b>[Multiplex network analysis for complex governance systems using surveys and online behavior](https://doi.org/10.1111/psj.12210) </b>  ([Working paper version](https://adamlhayes.github.io/files/multiplex-network-measure-Hayes2017.pdf)) <br>
