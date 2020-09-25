@@ -3,6 +3,9 @@ permalink: /publications/
 title: "Publications ([GoogleScholar profile](https://scholar.google.com/citations?user=X7RSdYUAAAAJ&hl=en))"
 author_profile: true
 ---
+<b>[Indiscriminate, irrelevant, and sometimes wrong: Causal misconceptions about climate change](https://doi.org/10.1111/risa.13587) </b> ([Working paper version](https://adamlhayes.github.io/files/Climate-Misconceptions-Fleming2020-Final.pdf)) <br>
+Whitney Fleming, **Adam L. Hayes**, Katherine M. Crosman, and Ann Bostrom (2020). *Risk Analysis.
+
 <b>[Estimating willingness-to-pay for fishing quota using a random bidding model (Working Paper)](https://adamlhayes.github.io/files/hayes2020randomBidding_working.pdf) </b> <br>
 **Adam L. Hayes**, *IIFET 2020 Conference*.
 
