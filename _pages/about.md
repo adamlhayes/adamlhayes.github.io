@@ -22,7 +22,7 @@ redirect_from:
 
 ## Recent Highlights
 * September, 2020. Article accepted at *Frontiers in Psychology*, "Credible Threat: Perceptions of Pandemic Coronavirus, Climate Change and the Morality and Management of Global Risks.'' (with Ann Bostrom, Gisela B&ouml;hm, and Robert O'Connor)
-* August, 2020. Article accepted at *Risk Analysis*, "Indiscriminate, irrelevant, and sometimes wrong: Causal misconceptions about climate change.'' (with Whitney Fleming, Kate Crosman, and Ann Bostrom)
+* August, 2020. Article accepted at *Risk Analysis*, ["Indiscriminate, irrelevant, and sometimes wrong: Causal misconceptions about climate change.''](https://doi.org/10.1111/risa.13587) (with Whitney Fleming, Kate Crosman, and Ann Bostrom)
 * May, 2020. Honorable Mention for Best Dissertation, [Public Management Research Association (PMRA)](http://pmranet.org/).
 * December, 2019. Ph.D. awarded! [Dissertation available online.](http://hdl.handle.net/1773/45082)
 * September, 2019. Teaching Assistant in the Fall quarter for *Economics for Policy Analysis* taught by Prof. Caroline Weber. 
