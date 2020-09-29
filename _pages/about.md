@@ -21,6 +21,7 @@ redirect_from:
 * Dynamic spatial externalities associated with private investment in Wisconsin lake stocking for recreational angling.
 
 ## Recent Highlights
+* September, 2020. Article accepted at *Frontiers in Psychology*, "Credible Threat: Perceptions of Pandemic Coronavirus, Climate Change and the Morality and Management of Global Risks.'' (with Ann Bostrom, Gisela B&ouml;hm, and Robert O'Connor)
 * August, 2020. Article accepted at *Risk Analysis*, ''Indiscriminate, irrelevant, and sometimes wrong: Causal misconceptions about climate change.'' (with Whitney Fleming, Kate Crosman, and Ann Bostrom)
 * May, 2020. Honorable Mention for Best Dissertation, [Public Management Research Association (PMRA)](http://pmranet.org/).
 * December, 2019. Ph.D. awarded! [Dissertation available online.](http://hdl.handle.net/1773/45082)
