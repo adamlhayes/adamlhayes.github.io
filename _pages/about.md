@@ -8,17 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-* Postdoctoral Scholar at the University of Washington School of Marine and Environmental Affairs where I work with Professor Sunny Jardine. I received my Ph.D. in December 2019 from the Evans School of Public Policy and Governance at the University of Washington. 
+* Postdoctoral Scholar at the University of Washington School of Aquatic and Fishery Sciences, affiliated with the NOAA Alaska Fisheries Science Center. 
+* Currently working on modeling fleet dynamics within the Alaska Climate Integrated Modeling (ACLIM) project.
 * Interested in environmental and natural resource economics and policy. Primarily working on fisheries economics, but I also study climate change perception and policy support and cooperative networks of stakeholders to manage environmental systems. 
 * Grew up in Colorado and received a B.A. in economics, political science, and international affairs from the University of Colorado in Boulder; and a M.S. in mineral and energy economics from the Colorado School of Mines. 
 
 ## Personal 
-* Live in Phinney Ridge neighborhood of Seattle with my wife and two cats. 
+* I live in the Phinney Ridge neighborhood of Seattle with my wife and two cats. 
 
 ## Current Projects
-* Using a random bidding model to estimate willingness-to-pay for fishing quota.
+* Adapting a random bidding model to estimate willingness-to-pay for fishing quota.
 * California Dungeness Crab harvester response to harmful algal blooms.
-* Dynamic spatial externalities associated with private investment in Wisconsin lake stocking for recreational angling.
+* Alaskan Bering Sea fleet dynamics.
 
 ## Recent Highlights
 * September, 2020. Article accepted at *Frontiers in Psychology*, "Credible Threat: Perceptions of Pandemic Coronavirus, Climate Change and the Morality and Management of Global Risks.'' (with Ann Bostrom, Gisela B&ouml;hm, and Robert O'Connor)
