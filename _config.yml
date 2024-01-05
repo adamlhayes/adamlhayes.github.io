@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+n# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Adam L. Hayes"
   avatar           : "Hayes_picture2_20190330.png"
-  bio              : "Postdoctoral economist at University of Washington School of Aquatic and Fishery Sciences and NOAA Alaska Fisheries Science Center."
-  location         : "Seattle, WA"
+  bio              : "Economist at the Washington State Department of Ecology."
+  location         : "Lacey, WA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=X7RSdYUAAAAJ&hl=en&oi=sra"
   email            :
@@ -106,7 +106,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "AdamLHayes"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
