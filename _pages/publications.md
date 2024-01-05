@@ -3,6 +3,8 @@ permalink: /publications/
 title: "Publications ([GoogleScholar profile](https://scholar.google.com/citations?user=X7RSdYUAAAAJ&hl=en))"
 author_profile: true
 ---
+Maryisa Szymokiak, Andrew Steinkruger, and **Adam L. Hayes** (2024). <b>[Alaska's Emergent Fisheries Processes](https://doi.org/10.1016/j.ocecoaman.2023.107004) </b> *Ocean & Coastal Management, 249*: 107004.
+
 Ann Bostrom, Gisela B&ouml;hm, **Adam L. Hayes**, and Robert O'Connor (2020). <b>[Credible Threat: Perceptions of Pandemic Coronavirus, Climate Change and the Morality and Management of Global Risks](https://doi.org/10.3389/fpsyg.2020.578562) </b> (Open Access) *Frontiers in Psychology, 11*.
 
 Whitney Fleming, **Adam L. Hayes**, Katherine M. Crosman, and Ann Bostrom (2020). <b>[Indiscriminate, irrelevant, and sometimes wrong: Causal misconceptions about climate change](https://doi.org/10.1111/risa.13587) </b> ([Working paper version](https://adamlhayes.github.io/files/Climate-Misconceptions-Fleming2020-Final.pdf)) *Risk Analysis, 41*(1): 157-178.
