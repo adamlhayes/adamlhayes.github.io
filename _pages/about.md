@@ -15,7 +15,7 @@ Personal
 ======
 * I live in Federal Way, Washington with my wife and two children. 
 
-Academic Projects
+Current Academic Projects
 ======
 * Fishing portfolios and responses to the collapse of the Pacific cod fishery in the Gulf of Alaska.
 * Modeling trust in Norwegian fisheries management with Kate Crosman.
