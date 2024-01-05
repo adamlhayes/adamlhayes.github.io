@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 * Economist at the Washington Department of Ecology.
-* Ph.D. in Public Policy from the University of Washington, concentrating on economics and environmental policy.
-* My academic research is primarily in the fields of fisheries economics and management.
+* Ph.D. in Public Policy from the University of Washington with a concentration in economics and environmental policy.
+* My academic research is primarily in the field of fisheries economics and management.
 
 Personal
 ======
