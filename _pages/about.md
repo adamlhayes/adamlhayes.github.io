@@ -7,9 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-* Economist at the Washington Department of Ecology.
 * Ph.D. in Public Policy from the University of Washington with a concentration in economics and environmental policy.
+* My work at Ecology has been on hazardous chemicals, benefits of non-compliance, and fish valuation.
 * My academic research is primarily in the field of fisheries economics and management.
+
 
 Personal
 ======
