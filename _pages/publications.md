@@ -7,7 +7,7 @@ author_profile: true
 
 Also see my [GoogleScholar profile](https://scholar.google.com/citations?user=X7RSdYUAAAAJ&hl=en)
 
-Maryisa Szymokiak, Andrew Steinkruger, and **Adam L. Hayes** (2024). <b>[Alaska's Emergent Fisheries Processes](https://doi.org/10.1016/j.ocecoaman.2023.107004) </b> *Ocean & Coastal Management, 249*: 107004.
+Maryisa Szymokiak, Andrew Steinkruger, and **Adam L. Hayes** (2024). <b>[Alaska's Emergent Fisheries Processes](https://doi.org/10.1016/j.ocecoaman.2023.107004) </b> ([Accepted version](https://adamlhayes.github.io/files/OCM_Emergent_Manuscript_20231128.pdf)) *Ocean & Coastal Management, 249*: 107004.
 
 Ann Bostrom, Gisela B&ouml;hm, **Adam L. Hayes**, and Robert O'Connor (2020). <b>[Credible Threat: Perceptions of Pandemic Coronavirus, Climate Change and the Morality and Management of Global Risks](https://doi.org/10.3389/fpsyg.2020.578562) </b> (Open Access) *Frontiers in Psychology, 11*.
 
