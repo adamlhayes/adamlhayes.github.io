@@ -1,9 +1,11 @@
 ---
 layout: archive
-title: "Publications ([GoogleScholar profile](https://scholar.google.com/citations?user=X7RSdYUAAAAJ&hl=en))"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+Also see my ([GoogleScholar profile](https://scholar.google.com/citations?user=X7RSdYUAAAAJ&hl=en))
 
 Maryisa Szymokiak, Andrew Steinkruger, and **Adam L. Hayes** (2024). <b>[Alaska's Emergent Fisheries Processes](https://doi.org/10.1016/j.ocecoaman.2023.107004) </b> *Ocean & Coastal Management, 249*: 107004.
 
