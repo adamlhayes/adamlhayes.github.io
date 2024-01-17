@@ -25,6 +25,6 @@ Current Academic Projects
 
 Some Recent Highlights
 ======
-* January, 2024. Article published at *Ocean and Coastal Management*, ["Alaska's emergent fisheries processes.''](https://doi.org/10.1016/j.ocecoaman.2023.107004) (with Marysia Szymkowiak and Andrew Steinkruger).
+* January, 2024. Article published at *Ocean & Coastal Management*, ["Alaska's emergent fisheries processes.''](https://doi.org/10.1016/j.ocecoaman.2023.107004) (with Marysia Szymkowiak and Andrew Steinkruger).
 * September, 2023. Started a new position as an economist at the [Washington State Department of Ecology](https://ecology.wa.gov/).
 * August, 2023. Presentation of work on collapse of the Pacific cod fishery in the Gulf of Alaska at Camp Resources in Asheville, NC.
