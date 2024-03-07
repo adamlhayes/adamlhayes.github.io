@@ -25,6 +25,8 @@ Current Academic Projects
 
 Some Recent Highlights
 ======
-* January, 2024. Article published at *Ocean & Coastal Management*, ["Alaska's emergent fisheries processes.''](https://doi.org/10.1016/j.ocecoaman.2023.107004) (with Marysia Szymkowiak and Andrew Steinkruger).
+* March, 2024. Article published at *Marine Resource Economics* with Sunnny Jardine and Katy Bland, ["Fishing Portfolio Response to a Climate Shock.''](https://www.journals.uchicago.edu/doi/10.1086/728919).
+* January, 2024. Article published at *Ocean & Coastal Management* with Marysia Szymkowiak and Andrew Steinkruger, ["Alaska's emergent fisheries processes.''](https://doi.org/10.1016/j.ocecoaman.2023.107004) [Open access version](https://adamlhayes.github.io/files/OCM_Emergent_Manuscript_20231128.pdf).
+* January, 2024. Albi Rovellini published in ICES the first of several articles ongoing about Atlantis modeling in the Gulf of Alaska. I'm one of many GOA-CLIM co-authors. Here's the [open access link](https://doi.org/10.1093/icesjms/fsae002).
 * September, 2023. Started a new position as an economist at the [Washington State Department of Ecology](https://ecology.wa.gov/).
 * August, 2023. Presentation of work on collapse of the Pacific cod fishery in the Gulf of Alaska at Camp Resources in Asheville, NC.
