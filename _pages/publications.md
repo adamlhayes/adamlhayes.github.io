@@ -7,7 +7,7 @@ author_profile: true
 
 Also see my [GoogleScholar profile](https://scholar.google.com/citations?user=X7RSdYUAAAAJ&hl=en)
 
-Sunny Jardine, Katy Bland, and **Adam L. Hayes** (2024). <b>[Fishing Portfolio Response to a Climate Shock](https://doi.org/10.1086/728919) </b> ([Pre-print version](https://adamlhayes.github.io/files/Jardine-et-al-2024-Fish-Portfolio-Climate-Shock.pdf)) *Marine Resource Economics*.
+Sunny Jardine, Katy Bland, and **Adam L. Hayes** (2024). <b>[Fishing Portfolio Response to a Climate Shock](https://doi.org/10.1086/728919) </b> ([Open access version](https://adamlhayes.github.io/files/Jardine-et-al-2024-Fish-Portfolio-Climate-Shock.pdf)) *Marine Resource Economics*.
 
 Marysia Szymkowiak, Andrew Steinkruger, and **Adam L. Hayes** (2024). <b>[Alaska's Emergent Fisheries Processes](https://doi.org/10.1016/j.ocecoaman.2023.107004) </b> ([Accepted version](https://adamlhayes.github.io/files/OCM_Emergent_Manuscript_20231128.pdf)) *Ocean & Coastal Management, 249*: 107004.
 
