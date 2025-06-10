@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-* My focus is using quantitative methods to answer questions in environmental, natural resource, and public health economics, policy, and governance.
+* I'm interested in using quantitative methods to answer questions in environmental, natural resource, and public health economics, policy, and governance.
 * At Ecology, I focus on benefit transfers, hazardous waste and toxics reduction, benefits of non-compliance, and fish valuation.
 * My academic research is primarily in the fields of environmental policy and fisheries economics and management.
 
