@@ -7,8 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-* Ph.D. in Public Policy from the University of Washington with a concentration in economics and environmental policy.
-* My work at Ecology has been on hazardous waste and toxics reduction, benefits of non-compliance, and fish valuation.
+* My focus is using quantitative methods to answer questions in environmental, natural resource, and public health economics, policy, and governance.
+* At Ecology, I focus on benefit transfers, hazardous waste and toxics reduction, benefits of non-compliance, and fish valuation.
 * My academic research is primarily in the fields of environmental policy and fisheries economics and management.
 
 Personal
@@ -22,7 +22,7 @@ Current Academic Projects
 * Estimating heterogeneous distributions of willingness to pay for Alaska halibut quota.
 * Evaluating Alaska halibut and sablefish quota markets.
 
-Some Recent Highlights
+Research Highlights
 ======
 * March, 2024. Presentation of work on Gulf of Alaska Pacific cod collapse and fishery diversification as part of the shifting stocks session at the [World Fisheries Congress in Seattle](https://wfc2024.fisheries.org/). 
 * March, 2024. Article published at *Marine Resource Economics* with Sunny Jardine and Katy Bland, ["Fishing Portfolio Response to a Climate Shock.''](https://www.journals.uchicago.edu/doi/10.1086/728919). [Open access version](https://adamlhayes.github.io/files/Jardine-et-al-2024-Fish-Portfolio-Climate-Shock.pdf).
@@ -30,3 +30,8 @@ Some Recent Highlights
 * January, 2024. Albi Rovellini led the publication of an article in *ICES Journal of Marine Science* about ongoing Atlantis modeling in the Gulf of Alaska. This is the first of several articles, and I'm one of many GOA-CLIM co-authors. Here's the [open access link](https://doi.org/10.1093/icesjms/fsae002).
 * September, 2023. Started a new position as an economist at the [Washington State Department of Ecology](https://ecology.wa.gov/).
 * August, 2023. Presentation of work on collapse of the Pacific cod fishery in the Gulf of Alaska at Camp Resources in Asheville, NC.
+
+Regulatory Analysis Activities
+======
+* June, 2025. [Regulatory Analysis for Safer Products Restrictions and Reporting (Cycle 1.5: PFAS)](https://apps.ecology.wa.gov/publications/documents/2504027.pdf)
+* January, 2025. [Regulatory Analysis for Cosmetic Products Restrictions (Formaldehyde in Cosmetics)](https://apps.ecology.wa.gov/publications/documents/2504009.pdf)
