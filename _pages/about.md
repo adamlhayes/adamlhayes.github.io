@@ -36,7 +36,7 @@ Regulatory Analysis Activities
 * Safer Products Restrictions and Reporting Amendments (PFAS in Consumer Products) \
 &nbsp;&nbsp;&nbsp;&nbsp;[Preliminary Regulatory Analysis](https://apps.ecology.wa.gov/publications/documents/2504027.pdf) (June 2025) 
 * Water Quality Permit Fees Amendments \
-&nbsp;&nbsp;&nbsp;&nbsp;[Final Regulatory Analysis](https://apps.ecology.wa.gov/publications/documents/2510055.pdf) (June 2025) 
+&nbsp;&nbsp;&nbsp;&nbsp;[Final Regulatory Analysis](https://apps.ecology.wa.gov/publications/documents/2510055.pdf) (June 2025) \
 &nbsp;&nbsp;&nbsp;&nbsp;[Preliminary Regulatory Analysis](https://apps.ecology.wa.gov/publications/documents/2510023.pdf) (March 2025) 
 * Cosmetic Products Restrictions (Formaldehyde in Cosmetics) \
 &nbsp;&nbsp;&nbsp;&nbsp;[Preliminary Regulatory Analysis](https://apps.ecology.wa.gov/publications/documents/2504009.pdf) (January 2025)
