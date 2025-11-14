@@ -13,7 +13,7 @@ Katherine Crosman and **Adam L. Hayes** (2025). <b>[`It builds on trust': Explor
 
 Alberto Rovellini, Andr&eacute; Punt, Meaghan Bryan, et al. (2025). <b>[Linking climate stressors to ecological processes in ecosystem models, with a case study from the Gulf of Alaska](https://doi.org/10.1093/icesjms/fsae002) </b> (Open Access) *ICES Journal of Marine Science, fsae002*.
 
-Sunny Jardine, Katy Bland, and **Adam L. Hayes** (2024). <b>[Fishing Portfolio Response to a Climate Shock](https://doi.org/10.1086/728919) </b> ([Open access version](https://adamlhayes.github.io/files/Jardine-et-al-2024-Fish-Portfolio-Climate-Shock.pdf)) *Marine Resource Economics*.
+Sunny Jardine, Katy Bland, and **Adam L. Hayes** (2024). <b>[Fishing Portfolio Response to a Climate Shock](https://doi.org/10.1086/728919) </b> ([Open access version](https://adamlhayes.github.io/files/Jardine-et-al-2024-Fish-Portfolio-Climate-Shock.pdf)) *Marine Resource Economics, 39*(2): 79-100.
 
 Marysia Szymkowiak, Andrew Steinkruger, and **Adam L. Hayes** (2024). <b>[Alaska's Emergent Fisheries Processes](https://doi.org/10.1016/j.ocecoaman.2023.107004) </b> ([Accepted version](https://adamlhayes.github.io/files/OCM_Emergent_Manuscript_20231128.pdf)) *Ocean & Coastal Management, 249*: 107004.
 
