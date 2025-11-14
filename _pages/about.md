@@ -35,6 +35,8 @@ Research Highlights
 
 Regulatory Analysis Activities
 ======
+* Amendments to Emissions Standards and Agricultural Burning Rules (Flame Cap Kilns and Air Curtain Incinerators) \
+&nbsp;&nbsp;&nbsp;&nbsp;[Preliminary Regulatory Analysis](https://apps.ecology.wa.gov/publications/documents/2502036.pdf) (November 2025)
 * Safer Products Restrictions and Reporting Amendments (PFAS in Consumer Products) \
 &nbsp;&nbsp;&nbsp;&nbsp;[Preliminary Regulatory Analysis](https://apps.ecology.wa.gov/publications/documents/2504027.pdf) (June 2025)
 * Cosmetic Products Restrictions (Formaldehyde in Cosmetics) \
