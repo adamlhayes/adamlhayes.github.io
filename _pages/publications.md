@@ -7,6 +7,8 @@ author_profile: true
 
 Also see my [GoogleScholar profile](https://scholar.google.com/citations?user=X7RSdYUAAAAJ&hl=en)
 
+Katherine Crosman, **Adam L. Hayes**, Emlyn J. Davies, and Sanna Majaneva (2025). <b>[Conflict, cod and Calanus: can technology increase trust in management of a contested fishery?](https://doi.org/10.3389/fmars.2025.1572772) </b> (Open access) *Frontiers in Marine Science, 12*: 1572772.
+
 Katherine Crosman and **Adam L. Hayes** (2025). <b>[`It builds on trust': Exploring fishers' trust in management of fisheries in Norway](https://doi.org/10.3389/fmars.2025.1572697) </b> (Open access) *Frontiers in Marine Science, 12*: 1572697.
 
 Alberto Rovellini, Andr&eacute; Punt, Meaghan Bryan, et al. (2025). <b>[Linking climate stressors to ecological processes in ecosystem models, with a case study from the Gulf of Alaska](https://doi.org/10.1093/icesjms/fsae002) </b> (Open Access) *ICES Journal of Marine Science, fsae002*.
